@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Los Angeles, California, US",
+  "export_job_id": "2cf6e74b-8474-4849-82a1-b5a56ac8797f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 318035,
+  "location_name": "Los Angeles",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-los-angeles-california-us-sample-318035",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/318035/beamstation_318035_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 246,
+  "sample_sha256": "84723133729c3e454f82cc56a9ca86df9753236777bb2a11cc2bae75bf7fbe78",
+  "sample_size_bytes": 1010439,
+  "total_records": 2462,
+  "updated_at": "2026-04-07T23:55:24.177991+00:00"
+}
