@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2cf6e74b-8474-4849-82a1-b5a56ac8797f",
+  "id_short": 318035,
+  "published_at": "2026-04-12T07:11:22Z",
+  "repo_name": "restaurant-verified-email-access-in-los-angeles-california-us-sample-318035",
+  "sample_asset_name": "beamstation_318035_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/318035/beamstation_318035_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 246,
+  "sample_sha256": "84723133729c3e454f82cc56a9ca86df9753236777bb2a11cc2bae75bf7fbe78",
+  "sample_size_bytes": 1010439,
+  "total_records": 2462
+}
